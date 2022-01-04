@@ -1,5 +1,5 @@
 # Zabbix-Installation
-How to Install Zabbix Server 4.0 on Ubuntu 18.04
+**How to Install Zabbix Server 4.0 on Ubuntu 18.04**
 
 Zabbix is an open source software for networks and application monitoring. Zabbix provides agents to monitor remote hosts as well as Zabbix includes support for monitoring via SNMP, TCP and ICMP checks. 
 
